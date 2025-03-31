@@ -1,7 +1,5 @@
 # Travigo - Your Ultimate Travel Companion! ✈️🌍
 
-![Travigo UI](https://media-hosting.imagekit.io/4a2c15a422cf465b/screenshot_1743406861266.png?Expires=1838014863&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=p0DA~PZ1YfER9CltXfjcxauEXbVVZa4DHqg-tCP7~N3QgnXDJbkPfeyygD0m9peuPl3t4WSuEkj8S-ZLYgTxLKv8-z6pdbgBrH57D5oH0NN4TiyZED7eQTbhEx~LUYFzyhwy8m1cp1aCl99hX6LruZA7p7qWfmVoiRqntwPIuA3WudURM~sGpmlj~Lv6s5djEgKl0FuBgQM5dpdJAVc4L6JLocY9ICsOq~R~aJDY6YlLdx3q268IWuMheW~JceXL3K9CNeHgCL8UwvCQBDP0a8CkrVJlNN9FCMTyTjGntL3Htf1UzL91Ofi7~XakkrpszI0bIzb6V7NHo-~dtqwedA__)
-
 ## 🌟 About Travigo
 Travigo is a feature-packed travel website designed to make planning your trips effortless, enjoyable, and informed! Whether you're an avid explorer or a first-time traveler, Travigo offers everything you need to create the perfect journey.
 
